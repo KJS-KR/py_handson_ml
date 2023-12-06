@@ -1,0 +1,6 @@
+.DS_store
+/src/.DS_store
+/src/ch_09/my_mnist.mmap
+/src/ch_13/datasets
+/src/ch_13/mnist/
+/src/ch_13/my_logs/
